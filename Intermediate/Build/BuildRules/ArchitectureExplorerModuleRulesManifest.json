@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE\\proj\\ArchitectureExplorer\\Source\\ArchitectureExplorer\\ArchitectureExplorer.Build.cs",
+		"C:\\UE\\proj\\ArchitectureExplorer\\Source\\ArchitectureExplorer.Target.cs",
+		"C:\\UE\\proj\\ArchitectureExplorer\\Source\\ArchitectureExplorerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArchitectureExplorer",
+			"Path": "C:\\UE\\proj\\ArchitectureExplorer\\Source\\ArchitectureExplorer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArchitectureExplorerEditor",
+			"Path": "C:\\UE\\proj\\ArchitectureExplorer\\Source\\ArchitectureExplorerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

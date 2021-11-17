@@ -1,0 +1,3 @@
+C:\UE\proj\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\Definitions.ArchitectureExplorer.h
+C:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
